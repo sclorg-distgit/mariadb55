@@ -9,7 +9,7 @@
 Summary: Package that installs %scl
 Name: %scl_name
 Version: 1.1
-Release: 17%{?dist}
+Release: 17.sc1%{?dist}
 License: GPLv2+
 Group: Applications/File
 Source0: README
